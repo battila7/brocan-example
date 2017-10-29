@@ -1,0 +1,18 @@
+{
+    base: node
+    owner: battila7
+    steps: [
+        {
+            name: start
+            commands: [
+                echo start
+            ]
+        }
+        {
+            name: finish
+            commands: [
+                echo finish
+            ]
+        }
+    ]
+}
