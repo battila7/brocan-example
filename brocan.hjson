@@ -6,6 +6,7 @@
             name: start
             commands: [
                 echo start
+                echo start
             ]
         }
         {
